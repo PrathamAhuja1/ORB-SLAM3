@@ -1,0 +1,1 @@
+/home/pratham/Documents/AUV-Stack/simulation/build/simulation/ament_cmake_environment_hooks/local_setup.sh

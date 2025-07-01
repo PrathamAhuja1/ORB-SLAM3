@@ -1,0 +1,1 @@
+cv_bridge:joint_state_publisher:opencv-python:robot_state_publisher:ros_gz_bridge:ros_ign_gazebo:rviz2:sensor_msgs:xacro
