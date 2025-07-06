@@ -342,6 +342,7 @@ class EnhancedORBTrackerNode(Node):
         cam_pose = None
         try:
             cam_pose = self.slam.process_image_stereo(left_frame, right_frame, ts)
+            #get_pose_target Slampy
         except Exception as e:
             self.get_logger().warn(f'ORB-SLAM3 stereo tracking error: {e}')
         
